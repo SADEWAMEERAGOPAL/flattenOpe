@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  ProductUrl: `http://dummyjson.com`
+  ProductUrl: `https://dummyjson.com`
 };

@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   Baseurl: `https://api.tvmaze.com`,
-  ProductUrl: `http://dummyjson.com`
+  ProductUrl: `https://dummyjson.com`
 };
 
 /*
